@@ -9,8 +9,7 @@ Create a new respositories on GitHub and clone it to your $HOME
 
 Go to your blog folder
 ``` bash
-cd YOUR-RESPOSITORIES
-mkdir blog
+cd taylorsmol.github.io
 ```
 
 ---
